@@ -3,7 +3,8 @@
 📖𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 ---
 - *Name*: のぞみ
-- 🖥  Beginner Game 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛  
+- 🖥  Beginner Game 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- Mostly of my projects are private, So please try visit my twitter!
 
 ![image](https://user-images.githubusercontent.com/78013257/155077191-29edf287-f808-4846-a018-832fca746b7f.png) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐: Game development～
