@@ -1,6 +1,6 @@
 ### ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 OwO💖 ~
 
-![Rebellion404's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rebellion404&theme=radical&show_icons=true)
+![ N0zomi-san's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rebellion404&theme=radical&show_icons=true)
 
 📖𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 ---
