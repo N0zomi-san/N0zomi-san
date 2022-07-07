@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/78013257/155077191-29edf287-f808-4846-a018-832fca746b7f.png) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 - 🎓 Major: Game development～
-- 🥰 Loves: Love comedy, Yuri, Yaoi, 3D & Coding!
+- 🥰 Loves: Love comedy, 3D & Coding!
 
 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 ---
